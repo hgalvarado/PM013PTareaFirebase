@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310862065252",
+    "project_id": "registros-82a6c",
+    "storage_bucket": "registros-82a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310862065252:android:029b1db7a2d446790ef971",
+        "android_client_info": {
+          "package_name": "com.halvarado.registerfirebases"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310862065252-v9ibvikb3tcd9ecoc6725ruivovlk966.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwTUIee2LDgNRFPrH2Hdj0oqKIn9-rAq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310862065252-v9ibvikb3tcd9ecoc6725ruivovlk966.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
